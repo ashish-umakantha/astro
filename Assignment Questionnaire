@@ -1,0 +1,69 @@
+1. Please describe your experience on an e-commerce platform and the technologies associated with testing an e-commerce platform.
+My entire experience is all on e-commerce platform, In e-commerce environment we mostly follow agile methodology with prime focus being customer. 
+All feature related decisions are made with keeping customer experience as priority. So the testing is also done keeping user on mind, 
+User experience becomes very important which includes smooth ui, for mobile app - Performance on different network speed, with minimum app size 
+and on web the less downtime of the site and also smooth ui. All the business related features should be made available both on web and app. 
+We should give highest priority for the security of the customers.
+
+2. What are the key components required for building automation framework for e-
+commerce platform.
+Key components in the design automation framework is segregating Ui cases and api cases since in e-commerce the ui changes frequently so the approach 
+should follow keeping locators in separate files i.e page object model becomes very popular approach and also following keyword driven framework will 
+make a good framework. Api performance also plays a key role.
+
+3. Please describe your experience with and understanding of cloud based services and
+solutions.
+
+4. What benefits does cloud platform provide and how it will benefit a business critical
+application which requires a zero downtime and faster response time?
+
+5. Describe your experience with CI / CD and source control tools?
+Have worked with in house tool called Autobot. Well autobot is Practo in house tool written on completely php, With autobot we can schedule time based 
+automation which uses scheduler to schedule  the job, Using autobot we can run on multiple devices. Autobot also emails the logs and the test report 
+with relevant screen shots.
+
+6. What is agile methodologies? Share your views and experience on it and how it can benefit
+in an automated QA cycle.
+Agile method is approach where development and testing goes hand in hand. All my projects and my experience was on agile method, My views would be that 
+agile method is extremely effective as it follows lesser time cycle which is the key for any e-commerce business. The product can be shipped quickly and 
+since it goes through an iterative cycle, the quality of the overall product becomes better.
+
+7. How do you keep up-to-date with the latest QA trends and new technologies?
+To keep up with latest technologies, i not keep myself updated with qa trends but i also keep myself updated on upcoming technologies by attending various 
+meet ups and conferences. Some of my meet ups are Droidcon, swift meet up, attended conference on Kotlin, apart from technologies i also attend conferences 
+on how e-commerces business works. My recent conference related to business was “How to setup a hospital from scratch by Dr. Alex Kuruvilla, I have also taken 
+interest in understanding how online travel business works.
+
+8. How do you participate in a team and what are the processes and methodologies you use in
+your job to successfully deliver a project?
+For a successfully deliver a project the key success would be delivering quality product timely, We need to understand each requirement clearly keeping user in mind, 
+then contribute in understanding and suggesting how the system is built, this will help in breaking down the requirement into test scenarios and documenting them and 
+also sharing the scenarios with all the stakeholders. once this is done, we should further breakdown the scenarios to test cases and following proper documentation and 
+during testing phase each bug of any for i.e bug could be a requirement bug or design bug all these should be logged and should be communicated to respective stakeholders. 
+During the sprint cycle we should allocate time frame to accomadate automation. 
+
+9. What is the process/tools needed to improve software quality? How would you setup a
+culture that values software quality?
+Tools would be: Bug tracking tool - e.g. : jira,
+Test case documentation : Eg: Testrail,
+Appropriate automation framework : e.g.: Robot,
+For mobile app - Understanding of dev tool for self building the apk - Eg; Android studio,
+Setting up staging - Understanging starting up the services and understanding how to read logs. 
+
+10. You are in a design review, and see a major flaw in the design. Has this ever happened? How
+do you bring it up? What happens if the presenter refuses to listen to your points? How do
+you make sure that the right system is built?
+Yes i have encountered similar during requirement handover and during design handover, i would first listen to the presenter on why he chose this design and then would put 
+out my inputs on the design and flaw i see, we would then discuss with key data and also take an opinion of other stakeholders as well.
+
+11. The production system is running on top of MongoDB and it is having issues that seem to be
+within the DB itself. How do you advise the team? How do you manage those issues and
+the impact to the new development work? How do you communicate this to non-technical
+people?
+Once i figure out the issue, i would first report the issue to the dev team o priority, since the issue is on prod, Meanwhile i would write an rca on the issue, so that the 
+document will help the non tech and also other stake holders aware of the issue.
+
+12. What attracts you to this opportunity and what makes you the ideal candidate?
+Well the reasons are many, first and foremost is the opportunity and responsibility i see in the role, After having spoken to the panel and hr, i see that the role is what i am 
+looking out. The reasons that makes me an ideal candidate is that i am a quick learner, Though having worked on Python and robot, i gave my full effort in learning java and implementing 
+the same. Also i feel i am ideal candidate as i have worked on e-commerce and customer facing companies throughout my experience.
